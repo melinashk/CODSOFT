@@ -21,4 +21,4 @@ def calculator(num1, num2, operator) :
   return result
 
 result = calculator(num1, num2, operator)
-print(result)
+print("The output is: ", result)
